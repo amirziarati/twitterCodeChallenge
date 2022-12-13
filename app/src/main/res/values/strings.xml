@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Tweather</string>
     <string name="current_temperature">Current temperature</string>
-    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="temperatureC">%d °C</string>
+    <string name="temperatureF">%d °F</string>
+    <string name="next_five_days">Next 5 days deviation</string>
+    <string name="next_five_days_average_label">Deviation of next 5 days is:</string>
+    <string name="wind_speed">wind speed: %.2f</string>
 </resources>
